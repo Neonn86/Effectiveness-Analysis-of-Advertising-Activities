@@ -1,1 +1,1 @@
-# Effectiveness-Analysis-of-Advertising-Activities
+# Effectiveness Analysis of Advertising Activities
