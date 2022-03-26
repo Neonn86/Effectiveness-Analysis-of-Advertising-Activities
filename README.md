@@ -50,4 +50,5 @@ increase by 1.8%.
 ## Conclusion
 - In the future, the company should allocate more budget on display advertising, like portals.
 - Synergy does exist in advertising and needs to be incorporated for both description and prediction of sales.
+- The synergy effect of offline and online advertising activities is best explained by the interaction between new & existing customers with Portal.
 - Seasonality is another factor that needs to be considered especially in a time series data, which could comprise any future analysis.
